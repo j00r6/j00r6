@@ -1,11 +1,11 @@
+#### [🌟 이력서 및 포폴보러가기](https://j00r6.github.io)
+
 <div align=left>
 
 ## 👋 안녕하세요!
 
 자바 백엔드 개발자를 꿈꾸고 있는 자라는 새싹 🌱<br>
 박진수 입니다 😄
-
-#### [🌟 이력서 및 포폴보러가기](https://j00r6.github.io)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j00r6&layout=compact)<br>
 ![j00r6's GitHub stats](https://github-readme-stats.vercel.app/api?username=j00r6&show_icons=true&theme=radical)<br>
